@@ -19,8 +19,8 @@
 		
 		"tradeRequest": "The Order is willing to permiss this trade.",
 				
-		"outerColor": [255,255,255],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"unique": "FUROR_TEUTONICUS",
 		"cities": ["Mariensburg","Konigsberg","Thorn","Elbing","Rehden","Christburg","Balga","Braunsberg","Bartenstein","Allenburg",
 			"Heilsberg","Memel","Goldingen","Mitau","Kokenhusen","Kreuzburg","Riga","Lemsal","Wenden","Rositten",
